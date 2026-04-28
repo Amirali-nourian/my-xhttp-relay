@@ -1,0 +1,13 @@
+{
+  "name": "vercel-xhttp-relay",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "next": "14.2.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
